@@ -1,0 +1,92 @@
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojResolveAssemblyReference.cache
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\nunit.engine.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\nunit.engine.api.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\csharp.exe
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\nunit.framework.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\ApprovalTests.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\ApprovalUtilities.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\csharp.pdb
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\nunit.framework.xml
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\ApprovalTests.xml
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\ApprovalUtilities.xml
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\FluentAssertions.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\System.ValueTuple.dll
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\FluentAssertions.pdb
+C:\Personal\Prezentare\Katas\GildedRose-Refactoring-Kata\csharp\GildedRose.Tests\bin\Debug\FluentAssertions.xml
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\nunit.engine.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\nunit.engine.api.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\csharp.exe
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\FluentAssertions.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\nunit.framework.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\System.ValueTuple.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\csharp.pdb
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\FluentAssertions.pdb
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\FluentAssertions.xml
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\bin\Debug\nunit.framework.xml
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojResolveAssemblyReference.cache
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare CE2018\Katas\GildedRose-Refactoring-Kata - Inheritance (breaks Liskov)\csharp\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\nunit.engine.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\nunit.engine.api.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\Mono.Cecil.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\csharp.exe
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\FluentAssertions.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\nunit.framework.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\System.ValueTuple.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\csharp.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\FluentAssertions.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\FluentAssertions.xml
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\nunit.framework.xml
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojResolveAssemblyReference.cache
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\bin\Debug\csharp.exe.config
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata\GildedRose.Tests\obj\Debug\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojResolveAssemblyReference.cache
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\obj\Debug\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\nunit.engine.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\nunit.engine.api.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\Mono.Cecil.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\csharp.exe
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\FluentAssertions.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\nunit.framework.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\System.ValueTuple.dll
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\csharp.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\csharp.exe.config
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\FluentAssertions.pdb
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\FluentAssertions.xml
+C:\Personal\Prezentare CE2018\Katas\Centric.Express.BasicSoftwareDevelopment\GildedRoseKata - Strategy Pattern Approach\GildedRose.Tests\bin\Debug\nunit.framework.xml
